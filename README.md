@@ -133,30 +133,6 @@ Tecnologias e conceitos utilizados:
 
 ---
 
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leoxss1&bg_color=00000000&color=6B7280&line=2563EB&point=1D4ED8&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leoxss1&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/leoxss1/leoxss1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
 <p align="center">
